@@ -1,13 +1,9 @@
 # CLAUDE.md - sublime-lumos
 
+> **Ecosystem Context:** See [getlumos/lumos/CLAUDE.md](https://github.com/getlumos/lumos/blob/main/CLAUDE.md) for LUMOS ecosystem overview, cross-repo standards, and shared guidelines.
+
 **Repository**: https://github.com/getlumos/sublime-lumos
 **Purpose**: Sublime Text package for LUMOS schema language
-
----
-
-## Quick Reference
-
-For complete ecosystem context, see: **[lumos/CLAUDE.md](https://github.com/getlumos/lumos/blob/main/CLAUDE.md)**
 
 ---
 
